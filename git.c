@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-    printf("dcm");
+    printf("happy new year");
 }
